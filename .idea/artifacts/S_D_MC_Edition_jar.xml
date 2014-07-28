@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="S&amp;D MC Edition:jar">
+    <output-path>$USER_HOME$/Dropbox/craftbukkit/plugins</output-path>
+    <root id="archive" name="S&amp;D MC Edition.jar">
+      <element id="module-output" name="Search MC Edition" />
+    </root>
+  </artifact>
+</component>

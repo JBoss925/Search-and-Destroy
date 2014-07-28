@@ -1,0 +1,10 @@
+name: SD
+version: 1.0
+main: me.JBoss925.games.Main
+commands:
+  saveInventory:
+    description: Save inv.
+    usage: /<command> configname inventoryname
+  loadInventory:
+    description: Load inv.
+    usage: /<command> configname inventoryname
